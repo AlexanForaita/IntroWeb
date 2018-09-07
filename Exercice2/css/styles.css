@@ -1,0 +1,23 @@
+body {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+    font: 1.0em Arial, Helvetica, sans-serif
+}
+h1{
+    text-align: center;
+    border: 5px solid olivedrab;
+}
+img{
+    width: 150px;
+    height:150px;
+}
+#box {
+    border-radius: 5px;
+    background-color: rgb(207,232,220);
+}
+#box2 {
+    border-radius: 5px;
+    background-color: rgb(207,232,220);
+}
+
