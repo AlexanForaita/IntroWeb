@@ -1,0 +1,19 @@
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+    font: 1.0em Arial, Helvetica, sans-serif
+}
+h1{
+    text-align: center;
+    border: 5px solid olivedrab;
+}
+.box {
+
+	border: 2px solid darkblue;
+	padding-left: 10px;
+}
+.box2 {
+  border: 2px solid red;
+}
+
+
