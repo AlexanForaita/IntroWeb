@@ -1,0 +1,38 @@
+/* style pour toutes les pages des documents */
+body{
+    font-family:georgia, serif;
+    background: center no-repeat url("../images/fond.jpg");
+    background-image: url(http://ngn-mag.com/image/wallpaper/fond-ecran-world-of-warcraft-36.jpeg);
+}
+h1 {
+    color:white;
+    border: 5px solid white;
+    text-align: center;
+}
+
+h2 {
+    color:red;
+}
+li {
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+/* classe */
+#nomCours{
+    text-transform:uppercase;
+    color: #2b0e80;
+}
+/* id */
+.metier {
+    color: #4a8b3c;
+    font-weight: bold;
+}
+
+#Page2{
+
+    color: khaki;
+}
+p{
+    color: white;
+}
