@@ -1,0 +1,37 @@
+﻿main{
+	margin:0 auto;  /* permet de centrer à 60% de la page*/
+	width: 60%;
+}
+h1,h2{
+	text-align: center;
+border: 2px solid black;
+
+
+}
+nav{
+        float: left;
+}
+
+#section1{
+
+	float: left;
+	border: 2px solid antiquewhite;
+	width:39%;
+	padding-top: 18px;
+	padding-left: 34px;
+}
+
+#section2{
+	border: 2px solid brown;
+	padding-top: 18px;
+}
+footer{
+border: 2px solid cornflowerblue;
+clear: left;
+}
+
+
+
+#italic{
+	font-style: italic;
+}
