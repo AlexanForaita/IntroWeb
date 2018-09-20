@@ -1,41 +1,37 @@
 ﻿main{
 	margin:0 auto; /* permet de centrer la page*/
-	width: 55%;  
+	width: 55%;
 }
 
 
 nav
 {
-
-	width : 15% ;
+	width : 150px ;
 	border : 1px solid blue ;
 	vertical-align : top;
 	display: inline-block;
-
 }
-section
-{
+.image{
+	text-align: center;
+}
+
+section{
 	border : 1px solid blue ;
-	width: 55%;
 	text-align: center;
-	left : 220px;
 	display: inline-block;
-	margin-left: 70px;
-
 }
-
-
-
+#sect1{
+	width:350px;
+	margin-left:110px;
+}
+#sect2{
+	vertical-align: top;
+	margin-left:53px;
+	width:30%;
+}
 header{
-
 	text-align: center;
-
 }
 footer{
-
-
 	text-align: center;
-
-
-
 }

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<title>FORMULAIRE</title>
+	<meta  charset="UTF-8">
+	<meta name="title" content="Titre de la page">
+	<meta name="description" content="description de la page">
+	<meta name="author" content="prenon NOM">
+	<meta name="keywords" content="mots-clé1, mots-clé2, ...">
+	<meta name="robots" content="index,follow">
+	<link rel="stylesheet " href ="CSS/Style.css"/>
+</head>
+<body>
+	<div class="form-style">
+		<div class="Entete">Entrez les informations du membre</div>
+		<!-- formulaire ici -->
+		<form id = "site" method = "post" >
+			<div>
+				<label for="enterName"><strong>Nom*</strong></label>
+				<input id = "enterName" name ="giveName" size = "40" type="text" required autofocus>
+			</div>
+			<div>
+				<label for="NomFamille"><strong>Prénom*</strong></label>
+				<input id="NomFamille" name="giveFamily" size = "40" type="text" required autofocus>
+			</div>
+			<div>
+				<label for = "adresse"><strong>Adresse</strong></label>
+					<input id = "adresse" name = "giveAdresse" size = "40" type = "text" placeholder="999 rue" required autofocus>
+			</div>
+			<div>
+				<label for="ville"><strong>Ville</strong></label>
+				<input id ="Ville" name = "giveVille" size="40" type="text" required autofocus>
+			</div>
+			<div>
+				<label for = "telephone"><strong>Téléphone*</strong></label>
+				<input id = "telephone" name = "giveNumber" size = "20" placeholder="999 999-9999" type = "text" required autofocus>
+			</div>
+			<div>
+				<label for="dateinscrip"><strong>Date de fin*</strong></label>
+				<input id = "dateinscrip" name ="giveDatefin" size ="20"  placeholder="aaaa-ms-jj" type = "text" required autofocus>
+			</div>
+			<div>
+				<label for="datefin"><strong>Date d`inscription*</strong></label>
+				<input id = "datefin" name ="giveDate" size ="20" placeholder="jj/ms/aaaa" required autofocus>
+			</div>
+			<div>
+				<label for = "Sexe"><strong>Sexe</strong></label>
+				<input  id = "masculin"  name = "giveSexe" type = "radio"  checked required autofocus><label class = "s"for = "masculin">Masculin</label>
+				<input type ="radio" id = "feminin" name = "giveSexe"><label class = "s"for = "feminin">Feminin</label>
+			</div>
+			<div>
+				<label for = "choix"><strong>Choix</strong></label>
+			     <select name = "liste">
+					 <option value = "produit 1">American Express</option>
+					 <option value = "produit 2">Visa</option>
+					 <option value = "produit 3">Matercard</option>
+				 </select>
+			</div>
+
+			<div>
+				<label for="carte"><strong>Carte de credit*</strong></label>
+				<input id = "carte" name ="giveCarte" size ="20" placeholder="9999 9999 9999" type="text"required autofocus>
+			</div>
+
+			<div>
+				<label for="mdp"><strong>Mot de passe*</strong></label>
+				<input id = "mdp" name ="giveDate" size ="40" type="password" required autofocus>
+			</div>
+
+			<div>
+				<label for="Courriel"><strong>Courriel</strong></label>
+				<input id = "Courriel" name ="giveCourriel" size ="40" placeholder="aaaaaa@aaaa.aaa" type = "text"required autofocus>
+			</div>
+			<div>
+				<label for="button"></label>
+				<input type = "reset" value="Remettre a zero">
+				<input type = "submit" value="Envoyer">
+			</div>
+
+
+		</form>
+
+
+	</div>
+
+
+
+
+</body>
+</html>
