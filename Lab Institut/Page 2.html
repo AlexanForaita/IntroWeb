@@ -39,8 +39,9 @@
 			<ul><li><a href="#" target="_blank">Accueil</a></li><li><a href="#" target="_blank">| Formation</a></li><li><a href="#" target="_blank">| Membres</a></li><li><a href="#" target="_blank">| Services</a></li></ul>
 			</nav>
 			<!--fin Nav-->
-			<h1>Entrez les informations membres</h1>
 
+			<h1>Entrez les informations membres</h1>
+			<form action="" method="post">
 			<div>
 				<label for = "Nom"><strong>Nom</strong><span>*</span></label>
 				<input id = "Nom" size = "40" type = "text" required autofocus>
@@ -59,7 +60,7 @@
 			</div>
 			<div>
 				<label for = "Commentaire" id = "com"><strong>Commentaires</strong></label>
-				<textarea id = "Commentaire" size = "40" type = "text" placeholder="Ecrivez vos commentaires" ></textarea>
+				<textarea id = "Commentaire" size = "40" type = "text" placeholder="Ecrivez vos commentaires" required autofocus ></textarea>
 			</div>
 			<div>
 				<label for = "Categorie"><strong>Categorie</strong></label>
@@ -72,20 +73,8 @@
 			<div>
 				<input class = "button" type = "submit" value="Envoyer">
 				<input id = "button" class = "button" type = "reset" value="Reinitialiser">
-
 			</div>
-
-
-
-
-
-
-
-
-
-
-
-
+			</form>
 		</section>
 		<!--fin section-->
 		</container>

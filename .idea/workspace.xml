@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2df64708-9539-46a5-984a-f8e9f36c03bb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercice5V2/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice5V2/image/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice5V2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice6/CSS/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice6/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice5/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice5/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Institut/Page 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Institut/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Institut/CSS/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Institut/Page 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Institut/Page 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Institut/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Institut/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,23 +17,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.htm" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercice6/index.htm">
+      <file leaf-file-name="Page 2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab Institut/Page 2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="77" column="53" selection-start-line="77" selection-start-column="53" selection-end-line="77" selection-end-column="53" />
+            <state relative-caret-position="476">
+              <caret line="61" column="91" lean-forward="true" selection-start-line="61" selection-start-column="91" selection-end-line="61" selection-end-column="91" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercice6/CSS/Style.css">
+      <file leaf-file-name="Page 3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab Institut/Page 3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#11#115#0" />
-              </folding>
+            <state relative-caret-position="737">
+              <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab Institut/CSS/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="747">
+              <caret line="191" column="22" lean-forward="true" selection-start-line="191" selection-start-column="22" selection-end-line="191" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab Institut/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -59,6 +73,10 @@
         <option value="$PROJECT_DIR$/Exercice5V2/css/style.css" />
         <option value="$PROJECT_DIR$/Exercice6/CSS/Style.css" />
         <option value="$PROJECT_DIR$/Exercice6/index.htm" />
+        <option value="$PROJECT_DIR$/Lab Institut/Page 2.html" />
+        <option value="$PROJECT_DIR$/Lab Institut/Page 3.html" />
+        <option value="$PROJECT_DIR$/Lab Institut/index.html" />
+        <option value="$PROJECT_DIR$/Lab Institut/CSS/styles.css" />
       </list>
     </option>
   </component>
@@ -94,46 +112,12 @@
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice5" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab Institut" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice5" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice5" type="462c0819:PsiDirectoryNode" />
-              <item name="image" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice5V2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice5V2" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice5V2" type="462c0819:PsiDirectoryNode" />
-              <item name="image" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice6" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab Institut" type="462c0819:PsiDirectoryNode" />
               <item name="CSS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -186,6 +170,7 @@
       <workItem from="1536849171653" duration="2279000" />
       <workItem from="1536946199251" duration="5801000" />
       <workItem from="1537446976622" duration="10195000" />
+      <workItem from="1538153839025" duration="5827000" />
     </task>
     <task id="LOCAL-00001" summary="exercice float">
       <created>1536343045903</created>
@@ -226,7 +211,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36620000" />
+    <option name="totallyTimeSpent" value="42447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
@@ -254,20 +239,20 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1296875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49791667" weight="0.20063359" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49791667" weight="0.20063359" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50208336" side_tool="true" weight="0.20063359" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -298,6 +283,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="exercice float - clear&#10;Exercice 1 - Site web&#10;Ajout de l'exercice 4&#10;debut exercice 5" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Exercice6/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="77" column="18" lean-forward="true" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice6/CSS/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#11#115#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercice5V2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -512,8 +514,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice6/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="77" column="53" selection-start-line="77" selection-start-column="53" selection-end-line="77" selection-end-column="53" />
+        <state relative-caret-position="1105">
+          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Institut/Page 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="61" column="91" lean-forward="true" selection-start-line="61" selection-start-column="91" selection-end-line="61" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Institut/Page 3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Institut/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Institut/CSS/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="191" column="22" lean-forward="true" selection-start-line="191" selection-start-column="22" selection-end-line="191" selection-end-column="22" />
         </state>
       </provider>
     </entry>
