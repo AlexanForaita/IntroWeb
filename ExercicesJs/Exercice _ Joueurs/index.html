@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<title>JOUEURS</title>
+</head>
+<body>
+<form>
+	<h1 id="lblNbreJoueur"> Numéro du joueur 1</h1>
+	<p>Entrez le nom du joueur: <input id="txtNom"><button id="btnRechercher" name="btnRechercher" type="button" onclick="btnRechercher_onclick()" disabled="true">Rechercher</button></p>
+	<p>Entrez les points:       <input id="txtPoints"  value=0></p>
+	<p> <button id="btnAjouter" name="btnAjouter" value="ajouter" type= "button" onclick="btnAjouter_onclick()">Ajouter</button>
+		<button id="btnTrouverMoy" name="btnTrouverMoy" type="button"  onclick="btnTrouverMoy_onclick()" disabled="true" >Moyenne</button>
+		<button id="btnTrouverMeilleur" name="btnTrouverMeilleur" type="button"  onclick="btnTrouverMeilleur_onclick()" disabled="true" >Meilleur Pointage</button>
+		<button id="btnTrouverPire" name="btnTrouverPire" type="button"  onclick="btnTrouverPire_onclick()" disabled="true">Pire Pointage</button>
+
+	</p>
+	<p id="lblReponse">Réponse</p>
+</form>
+<script src="js/traitement.js"></script>
+</body>
+</html>

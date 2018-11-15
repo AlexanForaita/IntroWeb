@@ -2,11 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2df64708-9539-46a5-984a-f8e9f36c03bb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab Institut/Page 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 1/JS/traitement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 2/JS/traitement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 3/JS/traitement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 4/JS/traitement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 5/JS/traitement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 6/JS/traitement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 7/JS/traitement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/Exercice - Joueurs.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/JS/traitement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Institut/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Institut/CSS/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Institut/Page 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Institut/Page 2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Institut/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Institut/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,43 +30,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Page 2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab Institut/Page 2.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="61" column="91" lean-forward="true" selection-start-line="61" selection-start-column="91" selection-end-line="61" selection-end-column="91" />
+            <state relative-caret-position="170">
+              <caret line="10" column="52" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Page 3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab Institut/Page 3.html">
+      <file leaf-file-name="traitement.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/JS/traitement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="737">
-              <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+            <state relative-caret-position="425">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lab Institut/CSS/styles.css">
+      <file leaf-file-name="traitement.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 3/JS/traitement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="747">
-              <caret line="191" column="22" lean-forward="true" selection-start-line="191" selection-start-column="22" selection-end-line="191" selection-end-column="22" />
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab Institut/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 3/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>M:\IntroWeb</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,6 +101,9 @@
         <option value="$PROJECT_DIR$/Lab Institut/Page 3.html" />
         <option value="$PROJECT_DIR$/Lab Institut/index.html" />
         <option value="$PROJECT_DIR$/Lab Institut/CSS/styles.css" />
+        <option value="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/traitement.js" />
+        <option value="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/index.html" />
+        <option value="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/JS/traitement.js" />
       </list>
     </option>
   </component>
@@ -101,7 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,13 +138,59 @@
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab Institut" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab Institut" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice _ Joueurs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice _ Joueurs" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice 1" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice 2" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice 3" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
@@ -128,6 +200,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,6 +244,8 @@
       <workItem from="1536946199251" duration="5801000" />
       <workItem from="1537446976622" duration="10195000" />
       <workItem from="1538153839025" duration="5827000" />
+      <workItem from="1538161784915" duration="128000" />
+      <workItem from="1541689584302" duration="3686000" />
     </task>
     <task id="LOCAL-00001" summary="exercice float">
       <created>1536343045903</created>
@@ -207,53 +282,61 @@
       <option name="project" value="LOCAL" />
       <updated>1536850649440</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lab institut fin">
+      <created>1538161844698</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538161844698</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42447000" />
+    <option name="totallyTimeSpent" value="46261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12939453" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.20063359" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" visible="true" weight="0.20019627" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49791667" weight="0.20063359" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12939453" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1296875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12939453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50208336" side_tool="true" weight="0.20063359" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49791667" weight="0.20063359" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49791667" weight="0.20063359" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50208336" side_tool="true" weight="0.20063359" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
@@ -280,9 +363,43 @@
     <MESSAGE value="exercice float - clear&#10;Exercice 1 - Site web" />
     <MESSAGE value="exercice float - clear&#10;Exercice 1 - Site web&#10;Ajout de l'exercice 4" />
     <MESSAGE value="exercice float - clear&#10;Exercice 1 - Site web&#10;Ajout de l'exercice 4&#10;debut exercice 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercice float - clear&#10;Exercice 1 - Site web&#10;Ajout de l'exercice 4&#10;debut exercice 5" />
+    <MESSAGE value="Lab institut fin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab institut fin" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lab Institut/Page 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="91" selection-start-line="61" selection-start-column="91" selection-end-line="61" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Institut/Page 3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Institut/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Institut/CSS/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3247">
+          <caret line="191" column="22" lean-forward="true" selection-start-line="191" selection-start-column="22" selection-end-line="191" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercice6/index.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1309">
@@ -294,9 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#11#115#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -506,9 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#11#115#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -519,31 +630,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Institut/Page 2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="61" column="91" lean-forward="true" selection-start-line="61" selection-start-column="91" selection-end-line="61" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Institut/Page 3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="737">
-          <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lab Institut/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        <state relative-caret-position="459">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab Institut/CSS/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
-          <caret line="191" column="22" lean-forward="true" selection-start-line="191" selection-start-column="22" selection-end-line="191" selection-end-column="22" />
+        <state relative-caret-position="594">
+          <caret line="187" column="21" selection-start-line="175" selection-start-column="15" selection-end-line="187" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Institut/Page 3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="934">
+          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Institut/Page 2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="61" column="91" selection-start-line="61" selection-start-column="91" selection-end-line="61" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/traitement.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 2/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 2/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 1/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 3/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 3/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
