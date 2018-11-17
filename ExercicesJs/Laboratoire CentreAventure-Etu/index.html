@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Activité plein air</title>
+<link rel="stylesheet" type="text/css" href="CSS/monStyle.css">
+</head>
+<!-- PARTIE CONCEPTION DE L'INTERFACE HTML5-->
+<body>
+<head><div> <img src="img/Entete.png" alt="entete"> </div></head>
+<section>
+	<form action="" method="get"> 
+		<h1> Activités au Centre Aventure</h1>
+		<label>Choisissez votre guide:</label><select id="lstGuide" name="lstGuide">
+			<option value="Eric Tremblay">Eric Tremblay</option>
+			<option value="Jonathan Tremblay">Jonathan Tremblay</option>
+			<option value="Stéphanie Boily">Stéphane Boily</option>
+			<option value="Johanne Fortin">Johanne Fortin</option>
+		</select>
+
+		<label>Choisissez votre activité préférée :</label><select onchange="lstAct_onchange()" id="lstAct" name="lstAct">
+			<option value="Parcours en Arbres Régulier" >Parcours en Arbres Régulier</option>
+			<option value="Parcours en Arbres Extrême"  >Parcours en Arbres Extrême</option>
+			<option value="Kayak de mer" >Kayak de mer</option>
+			<option value="Via Ferrata" >Via Ferrata</option>
+			<option value="Circuit de Tyroliennes Géantes" >Circuit de Tyroliennes Géantes</option>
+		</select>
+
+		<label>Date :</label><input type="date" id="txtDate" name="txtDate" >
+		<label>Choisissez le type d'individu: </label><br>
+		<label class="Choix">Junior</label><input type="radio" name="radChoix" id="radJunior"  checked><br>
+		<label class="Choix">Étudiant</label><input type="radio" name="radChoix" id="radEtu"><br>
+		<label class="Choix">Adulte</label><input type="radio" name="radChoix" id="radAdulte"><br>
+		<label>Équipement</label><input type="checkbox" id="chkEquip" name="chkEquip"><br>
+		<label>Entrez le nombre de personne :</label><input id="txtNbPersonne" name="txtNbPersonne" value=0><br> 
+		<input id="btnCalculer" name="btnCalculer" value="Calculer" type="button" onclick=" btnCalculer_onclick()">
+	</form>
+</section>
+<aside>
+	<img id="Act">
+</aside>
+<footer>
+	<p id="lblAct" class="Resultat">lblAct</p> 
+	<p id="lblGuide" class="Resultat">lblGuide</p> 
+	<p id="lblType" class="Resultat">lblType</p> 
+	<p id="lblDate" class="Resultat">lblDate</p> 
+	<p id="lblNbPers" class="Resultat">lblNbPers</p> 
+	<p id="lblEquipement" class="Resultat">lblEquipement</p> 
+	<p id="lblSousTot" class="Resultat">lblSousTot</p> 
+	<p id="lblTPS" class="Resultat">lblTPS</p> 
+	<p id="lblTVQ" class="Resultat">lblTVQ </p>
+	<p id="lblTot" class="Resultat">lblTot </p>  
+</footer>
+<script src="JS/traitement.js"></script>
+</body>
+</html>

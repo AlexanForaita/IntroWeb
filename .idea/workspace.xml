@@ -2,23 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2df64708-9539-46a5-984a-f8e9f36c03bb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 1/JS/traitement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 2/JS/traitement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 3/JS/traitement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 4/JS/traitement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 5/JS/traitement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 6/JS/traitement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 7/JS/traitement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice 7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/Exercice - Joueurs.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/JS/traitement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Calculatrice v1/ExerciceChoisirParmi#13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Calculatrice v1/ExerciceChoisirParmi#14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Calculatrice v1/Exercices 5 - Algorithmes Choisir Parmi.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Calculatrice v1/JS/traitement13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Calculatrice v1/JS/traitement14.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Calculatrice v2/ExerciceChoisirParmi#13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Calculatrice v2/ExerciceChoisirParmi#14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Calculatrice v2/Exercices 5 - Algorithmes Choisir Parmi.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Calculatrice v2/JS/traitement13.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Calculatrice v2/JS/traitement14.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/.idea/Exercice _ Joueurs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/CSS/monStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/JS/traitement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/img/CadreFacture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/img/Circuit de Tyroliennes Géantes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/img/Entete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/img/FondAventure.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/img/Kayak de mer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/img/Parcours en Arbres Extrême.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/img/Parcours en Arbres Régulier.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/img/Via Ferrata.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,36 +38,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/index.html">
+      <file leaf-file-name="ExerciceChoisirParmi#14.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExercicesJs/Calculatrice V2/ExerciceChoisirParmi#14.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="52" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="52" />
+            <state relative-caret-position="255">
+              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="traitement.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/JS/traitement.js">
+      <file leaf-file-name="traitement14.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercicesJs/Calculatrice V2/JS/traitement14.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="580">
+              <caret line="82" column="14" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="traitement.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 3/JS/traitement.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 3/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -104,6 +98,9 @@
         <option value="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/traitement.js" />
         <option value="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/index.html" />
         <option value="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/index.html" />
+        <option value="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/ExercicesJs/Calculatrice V2/JS/traitement14.js" />
       </list>
     </option>
   </component>
@@ -144,52 +141,20 @@
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice _ Joueurs" type="462c0819:PsiDirectoryNode" />
+              <item name="Laboratoire CentreAventure-Etu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice _ Joueurs" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
+              <item name="Laboratoire CentreAventure-Etu" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice 1" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice 2" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice 3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Laboratoire CentreAventure-Etu" type="462c0819:PsiDirectoryNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -246,6 +211,8 @@
       <workItem from="1538153839025" duration="5827000" />
       <workItem from="1538161784915" duration="128000" />
       <workItem from="1541689584302" duration="3686000" />
+      <workItem from="1542341682086" duration="821000" />
+      <workItem from="1542401080767" duration="11642000" />
     </task>
     <task id="LOCAL-00001" summary="exercice float">
       <created>1536343045903</created>
@@ -293,29 +260,29 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46261000" />
+    <option name="totallyTimeSpent" value="58724000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.218125" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" visible="true" weight="0.20019627" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.19947849" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49791667" weight="0.20063359" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12939453" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
@@ -325,19 +292,19 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12939453" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.218125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50208336" side_tool="true" weight="0.20063359" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49791667" weight="0.20063359" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49791667" weight="0.20063359" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50208336" side_tool="true" weight="0.19947849" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -368,52 +335,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lab Institut/Page 2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="91" selection-start-line="61" selection-start-column="91" selection-end-line="61" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Institut/Page 3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="32" lean-forward="true" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Institut/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Institut/CSS/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3247">
-          <caret line="191" column="22" lean-forward="true" selection-start-line="191" selection-start-column="22" selection-end-line="191" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice6/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" column="18" lean-forward="true" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice6/CSS/Style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercice5V2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -658,9 +583,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/traitement.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/traitement.js" />
     <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 2/JS/traitement.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -684,13 +607,6 @@
     <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 3/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 3/JS/traitement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -700,8 +616,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/JS/traitement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="-34">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 3/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/CineClub/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/CineClub/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="40" column="8" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="40" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Calculatrice V2/JS/traitement14.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="82" column="14" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Calculatrice V2/ExerciceChoisirParmi#14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
