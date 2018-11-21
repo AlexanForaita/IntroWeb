@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>La garderie animaux inc</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="CSS/monstyle.css">
+</head>
+<body>
+<form action="" method="get">
+	<h1>La garderie animaux inc.</h1>
+	<!-- Boîtes de texte -->
+	<p class="titre">SERVICE DE GARDERIE</p>
+
+	<p class="Align"> <label >Choix du vétérinaire:</label>
+	<select  id="lstVeterinaire" name="lstVeterinaire">
+		<option value="Audrey Bouchard" >Audrey Bouchard</option>
+		<option value="Stéphane Tremblay"  >Stéphane Tremblay</option>
+		<option value="Maxime Simard" >Maxime Simard</option>
+		<option value="Mélissa Caron" >Mélissa Caron</option>
+	</select>
+
+	<p class="Align"> Entrez le nombre de jours:<input type="number" class="champ" id="txtNbreJours" name="txtNbreJours" value="">  </p>
+
+	<!-- Case à cocher -->
+	<p class="Align">Service de toilettage<input type="checkbox" id="chkServ" name="chkServ">  </p> 
+
+	<!-- Case à cocher -->
+	<p class="Align">
+	Chien<input type="radio" name="radChoix" checked=true id="radChien">
+	Chat<input type="radio" name="radChoix" id="radChat">
+	</p>
+	<p class="Align">Votre nom: <input type="txt" name ="nomClient" id = "nomClient"></p>
+	<p class="Align">Votre numero: <input type="tel" name ="numClient" id = "numClient"></p>
+	<!-- label affichage -->
+	<p class="Align" id="lblMessage" name="lblMessage">le résultat s'affiche ici </p>
+
+	<!-- Bouton -->
+	<input class="label_plus" id="btnCalculer" name="btnCalculer" value="C   A   L   C   U   L   E   R" type="button" onclick="btnCalculer_onclick()"> 
+</form>
+<script src="JS/traitement.js"></script>
+</body>
+</html>

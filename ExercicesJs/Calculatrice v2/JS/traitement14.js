@@ -13,8 +13,6 @@ function btnCalculer_onclick()
 
 
 
-
-
 function traiterInfo()
 
 {
@@ -27,8 +25,6 @@ function traiterInfo()
     document.getElementById("lblMessage").innerHTML ="Le resultat est "+resultat;
 
 }
-
-
 
 function calculer(Note1,Note2,Operateur)
 {
