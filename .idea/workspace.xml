@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2df64708-9539-46a5-984a-f8e9f36c03bb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/Exercices expressions régulières- Etu.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/JS/traitement.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/JS/traitement.js" beforeDir="false" afterPath="$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/JS/traitement.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="traitement.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/JS/traitement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="544">
+              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -197,7 +196,7 @@
       <workItem from="1542401080767" duration="15145000" />
       <workItem from="1542757798197" duration="600000" />
       <workItem from="1542840802342" duration="2279000" />
-      <workItem from="1542899531121" duration="2181000" />
+      <workItem from="1542899531121" duration="3565000" />
     </task>
     <task id="LOCAL-00001" summary="exercice float">
       <created>1536343045903</created>
@@ -255,11 +254,25 @@
       <option name="project" value="LOCAL" />
       <updated>1542843109494</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Express reg.">
+      <created>1542901811173</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542901811173</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Express reg.">
+      <created>1542902097530</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542902097530</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67287000" />
+    <option name="totallyTimeSpent" value="68671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
@@ -332,7 +345,8 @@
     <MESSAGE value="Lab institut fin" />
     <MESSAGE value="Lab parc aventure et calc V1 V2" />
     <MESSAGE value="Animaux" />
-    <option name="LAST_COMMIT_MESSAGE" value="Animaux" />
+    <MESSAGE value="Express reg." />
+    <option name="LAST_COMMIT_MESSAGE" value="Express reg." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -654,8 +668,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/JS/traitement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="544">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
         </state>
       </provider>
     </entry>

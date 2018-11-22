@@ -25,10 +25,10 @@ function validerNo( Chaine )   // un chiffre peut etre 0 5 25 200 etc..
 
 function verifierEntreDixTrente( Chaine ) //un chiffre entre 10 et 30
 {
-   return /^[1-3][0-9]$/.test(Chaine);
+   return /^([1-2][0-9]|(30))$/.test(Chaine);
 }
 
 function verifierEntreUnVingt( Chaine ) //un chiffre entre 1 et 20
 {
-    return /^[1-2][0-9]?$/.test(Chaine);
+    return /^([1])?([0-9]|(20))?$/.test(Chaine);
 }
