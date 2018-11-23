@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2df64708-9539-46a5-984a-f8e9f36c03bb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu/CSS/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu/JS/traitement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu/Lab Institut Membre.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu/Reponse.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu/img/aside.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu/img/bleu_header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu/img/fond.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu/img/logo.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu/img/pour_nous_joindre.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu/img/vert_et_bleu_aside.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu/inscription.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/JS/traitement.js" beforeDir="false" afterPath="$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/JS/traitement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExercicesJs/Calculatrice v2/JS/traitement14.js" beforeDir="false" afterPath="$PROJECT_DIR$/ExercicesJs/Calculatrice v2/JS/traitement14.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/JS/traitement.js" beforeDir="false" afterPath="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/JS/traitement.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,29 +26,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exercices expressions régulières- Etu.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/Exercices expressions régulières- Etu.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="traitement.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/JS/traitement.js">
+      <file leaf-file-name="inscription.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab Institut - Etu/inscription.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
-              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+              <caret line="44" column="85" lean-forward="true" selection-start-line="44" selection-start-column="74" selection-end-line="44" selection-end-column="85" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="traitement.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercicesJs/GarderieAnimaux/JS/traitement.js">
+        <entry file="file://$PROJECT_DIR$/Lab Institut - Etu/JS/traitement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="645">
+              <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="traitement14.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExercicesJs/Calculatrice V2/JS/traitement14.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1427">
+              <caret line="125" column="1" lean-forward="true" selection-start-line="125" selection-start-column="1" selection-end-line="125" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExerciceChoisirParmi#14.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercicesJs/Calculatrice V2/ExerciceChoisirParmi#14.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -83,12 +104,14 @@
         <option value="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/traitement.js" />
         <option value="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/index.html" />
         <option value="$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/JS/traitement.js" />
-        <option value="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/index.html" />
-        <option value="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/JS/traitement.js" />
-        <option value="$PROJECT_DIR$/ExercicesJs/Calculatrice V2/JS/traitement14.js" />
         <option value="$PROJECT_DIR$/ExercicesJs/GarderieAnimaux/JS/traitement.js" />
         <option value="$PROJECT_DIR$/ExercicesJs/GarderieAnimaux/index.html" />
         <option value="$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/index.html" />
+        <option value="$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/ExercicesJs/Calculatrice V2/JS/traitement14.js" />
+        <option value="$PROJECT_DIR$/Lab Institut - Etu/inscription.html" />
+        <option value="$PROJECT_DIR$/Lab Institut - Etu/JS/traitement.js" />
       </list>
     </option>
   </component>
@@ -113,7 +136,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,13 +152,37 @@
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
-              <item name="GarderieAnimaux" type="462c0819:PsiDirectoryNode" />
+              <item name="Calculatrice V2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
               <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
-              <item name="GarderieAnimaux" type="462c0819:PsiDirectoryNode" />
+              <item name="Calculatrice V2" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
+              <item name="Laboratoire CentreAventure-Etu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
+              <item name="Laboratoire CentreAventure-Etu" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab Institut - Etu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab Institut - Etu" type="462c0819:PsiDirectoryNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -147,12 +193,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -196,7 +244,9 @@
       <workItem from="1542401080767" duration="15145000" />
       <workItem from="1542757798197" duration="600000" />
       <workItem from="1542840802342" duration="2279000" />
-      <workItem from="1542899531121" duration="3565000" />
+      <workItem from="1542899531121" duration="4139000" />
+      <workItem from="1542938981394" duration="2270000" />
+      <workItem from="1542995119707" duration="8334000" />
     </task>
     <task id="LOCAL-00001" summary="exercice float">
       <created>1536343045903</created>
@@ -268,26 +318,32 @@
       <option name="project" value="LOCAL" />
       <updated>1542902097530</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Express reg.">
+      <created>1542903240856</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1542903240859</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68671000" />
+    <option name="totallyTimeSpent" value="79849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21777344" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21728516" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" visible="true" weight="0.19921492" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50208336" side_tool="true" visible="true" weight="0.0" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49791667" weight="0.20063359" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49791667" weight="0.20063359" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -298,27 +354,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.218125" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49791667" weight="0.20063359" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50208336" side_tool="true" weight="0.19947849" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -354,20 +389,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exercice4/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercice4/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercice3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -617,34 +638,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ExercicesJs/CineClub/index.htm" />
     <entry file="file://$PROJECT_DIR$/ExercicesJs/CineClub/traitement.js" />
-    <entry file="file://$PROJECT_DIR$/ExercicesJs/Calculatrice V2/ExerciceChoisirParmi#14.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="25" column="58" lean-forward="true" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/JS/traitement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercicesJs/Calculatrice V2/JS/traitement14.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExercicesJs/GarderieAnimaux/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -654,22 +647,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ExercicesJs/GarderieAnimaux/JS/traitement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="206">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="39" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/Exercices expressions régulières- Etu.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/JS/traitement.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Laboratoire CentreAventure-Etu/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Calculatrice V2/ExerciceChoisirParmi#14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Institut - Etu/inscription.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <caret line="44" column="85" lean-forward="true" selection-start-line="44" selection-start-column="74" selection-end-line="44" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Institut - Etu/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Calculatrice V2/JS/traitement14.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1427">
+          <caret line="125" column="1" lean-forward="true" selection-start-line="125" selection-start-column="1" selection-end-line="125" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -1,7 +1,10 @@
 function btnCalculer_onclick()
 {
    if(validChampOblig()===true) {
-       resultat = traiterInfo();
+       if(validFormat()===true) {
+
+          traiterInfo();
+       }
    }
 }
 
@@ -72,13 +75,52 @@ function validChampOblig()
 
 {
     var valide = true;
-var TabNote = new Array("txtNbre1","txtNbre2","txtOperateur")
+    var TabNote = new Array("txtNbre1","txtNbre2","txtOperateur")
 
-   for (var i = 0;i<TabNote.length;i++){
-    if(ValiExist(TabNote[i])===false){
+   for (var i = 0;i<TabNote.length;i++)
+   {
+    if(ValiExist(TabNote[i])===false)
+    {
         valide = false;
     }
    }
     return valide;
 }
 
+function validFormat()
+{
+
+    var valide = true;
+
+  if (valideNo(document.getElementById("txtNbre1").value)=== false)
+  {
+    valide = false;
+      document.getElementById("txtNbre1").style.backgroundColor = "Red";
+  }
+
+  if (valideNo(document.getElementById("txtNbre2").value)=== false)
+  {
+      valide = false;
+      document.getElementById("txtNbre2").style.backgroundColor = "Red";
+  }
+
+  if(valideSymb(document.getElementById("txtOperateur").value)=== false)
+  {
+      valide = false;
+      document.getElementById("txtOperateur").style.backgroundColor = "Red";
+  }
+
+return valide;
+
+}
+
+function valideNo(chaine)
+{
+
+    return /^[0-9]+$/.test(chaine);
+}
+
+function valideSymb(chaine)
+{
+  return /^(\+|\-|\*|\/)$/.test(chaine);
+}
