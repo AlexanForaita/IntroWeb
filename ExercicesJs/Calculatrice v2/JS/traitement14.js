@@ -75,7 +75,7 @@ function validChampOblig()
 
 {
     var valide = true;
-    var TabNote = new Array("txtNbre1","txtNbre2","txtOperateur")
+    var TabNote = new Array("txtNbre1","txtNbre2","txtOperateur");
 
    for (var i = 0;i<TabNote.length;i++)
    {

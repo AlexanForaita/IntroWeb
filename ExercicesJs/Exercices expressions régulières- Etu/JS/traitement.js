@@ -1,6 +1,6 @@
 function btnValider_onclick()  //mettre la fonction dans un IF tester une fonction à la fois
 {
-   alert(verifierEntreUnVingt(document.getElementById("txtValidation").value));
+   alert(verif(document.getElementById("txtValidation").value));
 }
 
 function validerNAS( Chaine )  // numéro d'assurance social 418 789 123
@@ -31,4 +31,9 @@ function verifierEntreDixTrente( Chaine ) //un chiffre entre 10 et 30
 function verifierEntreUnVingt( Chaine ) //un chiffre entre 1 et 20
 {
     return /^([1])?([0-9]|(20))?$/.test(Chaine);
+}
+
+function verif(chaine)
+{
+ return   /^[A-Z]{1}[a-z]+$/.test(chaine);
 }
