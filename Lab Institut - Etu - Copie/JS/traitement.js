@@ -5,7 +5,8 @@ function frmMembre_onsubmit()
         if(validChampOblig()=== true) {
             if(validFormat() === true) {
                 resultat=afficheTarif();
-                if(confirm("Voulez vous inscrire ? Votre tarif est de "+resultat)=== true){
+                if(confirm("Voulez vous inscrire ? Votre tarif est de "+resultat)=== true)
+                {
 
                 }
                 else{
@@ -173,4 +174,97 @@ function valideCode(chaine){
 function validecodePerm(chaine){
 
     return /^[A-z]{4}(\d{8})$/.test(chaine)
+}
+function btnAjouter_onclick()
+{
+    ajouterNom();
+}
+var TabAge = new Array(4);
+var TabNom = new Array (4);
+function ajouterNom()
+{
+
+    Nom = document.getElementById("txtNom").value;
+    Age = parseInt(document.getElementById("txtAge").value);
+
+  var Cpt = 0;
+
+    TabNom [Cpt]= Nom;
+    TabAge [Cpt]= Age;
+    Cpt++;
+
+    document.getElementById("lblMessageErreur").innerHTML = "Numero de Nom " + Cpt;
+
+    if(Cpt >4)
+    {
+        document.getElementById("btnAjouter").disabled = true;
+        document.getElementById("btnPlusJeune").disabled = false;
+        document.getElementById("btnRechercheNomComplet").disabled = false;
+    }
+}
+
+function btnPlusJeune_onclick()
+{
+    PlusJeune();
+}
+
+function PlusJeune()
+{
+
+
+    var PlusJeune = TabAge[0];
+    var NomPlusJ = TabNom[0];
+
+    for(var i=0 ; i<TabAge.length;i++)
+    {
+        if(PlusJeune > TabAge[i])
+        {
+            PlusJeune = TabAge[i];
+            NomPlusJ = TabNom[i];
+        }
+    }
+
+
+    document.getElementById("lblReponse").innerHTML = "Le plus Jeune est " + NomPlusJ +  " et son age est " + PlusJeune;
+
+
+}
+
+function btnRechercheNomComplet_onclick()
+{
+
+    Recherche()
+
+}
+
+function Recherche()
+{
+    var Recherche;
+    var trouve = false;
+    var Nom;
+    var i = 0;
+
+    Nom = document.getElementById("txtNom").value;
+
+    while((trouve == false) && (i <= 4))
+    {
+        if (TabNom[i] == Nom)
+        {
+            trouve = true;
+        }
+        else
+        {
+            i++;
+        }
+    }
+    if(trouve == true)
+    {
+        Recherche = document.getElementById("lblReponse").innerHTML = "Vous recherchez " + Nom + " et son age est de " + TabAge[i];
+    }
+    else
+    {
+        Recherche = document.getElementById("lblReponse").innerHTML = " Erreur, Veuillez bien entrer le nom ";
+    }
+
+    return Recherche;
 }

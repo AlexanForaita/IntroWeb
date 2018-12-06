@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2df64708-9539-46a5-984a-f8e9f36c03bb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu - Copie/CSS/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu - Copie/JS/traitement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu - Copie/Lab Institut Membre.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu - Copie/Reponse.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu - Copie/img/aside.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu - Copie/img/bleu_header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu - Copie/img/fond.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu - Copie/img/logo.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu - Copie/img/pour_nous_joindre.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu - Copie/img/vert_et_bleu_aside.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab Institut - Etu - Copie/inscription.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExercicesJs/Calculatrice v2/JS/traitement14.js" beforeDir="false" afterPath="$PROJECT_DIR$/ExercicesJs/Calculatrice v2/JS/traitement14.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/JS/traitement.js" beforeDir="false" afterPath="$PROJECT_DIR$/ExercicesJs/Exercices expressions régulières- Etu/JS/traitement.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Institut - Etu/JS/traitement.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Institut - Etu/JS/traitement.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Institut - Etu/inscription.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Institut - Etu/inscription.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Institut - Etu - Copie/JS/traitement.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Institut - Etu - Copie/JS/traitement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Institut - Etu - Copie/inscription.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Institut - Etu - Copie/inscription.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,21 +14,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="inscription.html" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="inscription.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab Institut - Etu - Copie/inscription.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+            <state relative-caret-position="646">
+              <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="traitement.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab Institut - Etu - Copie/JS/traitement.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="182" column="27" selection-start-line="182" selection-start-column="27" selection-end-line="182" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="traitement.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab Institut - Etu - Copie/JS/traitement.js">
+        <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/JS/traitement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="21" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="21" />
+            <state relative-caret-position="-33">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -96,6 +92,8 @@
         <option value="$PROJECT_DIR$/ExercicesJs/Calculatrice V2/JS/traitement14.js" />
         <option value="$PROJECT_DIR$/Lab Institut - Etu/inscription.html" />
         <option value="$PROJECT_DIR$/Lab Institut - Etu/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/Lab Institut - Etu - Copie/inscription.html" />
+        <option value="$PROJECT_DIR$/Lab Institut - Etu - Copie/JS/traitement.js" />
       </list>
     </option>
   </component>
@@ -127,6 +125,24 @@
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice _ Joueurs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IntroWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercicesJs" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercice _ Joueurs" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="IntroWeb" type="b2602c69:ProjectViewProjectNode" />
@@ -200,7 +216,8 @@
       <workItem from="1543027546509" duration="1382000" />
       <workItem from="1543459972192" duration="2974000" />
       <workItem from="1543498435168" duration="9388000" />
-      <workItem from="1543602067010" duration="3816000" />
+      <workItem from="1543602067010" duration="4894000" />
+      <workItem from="1544067812407" duration="2406000" />
     </task>
     <task id="LOCAL-00001" summary="exercice float">
       <created>1536343045903</created>
@@ -279,17 +296,24 @@
       <option name="project" value="LOCAL" />
       <updated>1542903240859</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="lAB iNSTITUT">
+      <created>1543606399085</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1543606399085</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98016000" />
+    <option name="totallyTimeSpent" value="101500000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1694336" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.169375" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50208336" side_tool="true" weight="0.24730128" />
@@ -336,7 +360,8 @@
     <MESSAGE value="Lab parc aventure et calc V1 V2" />
     <MESSAGE value="Animaux" />
     <MESSAGE value="Express reg." />
-    <option name="LAST_COMMIT_MESSAGE" value="Express reg." />
+    <MESSAGE value="lAB iNSTITUT" />
+    <option name="LAST_COMMIT_MESSAGE" value="lAB iNSTITUT" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -563,13 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/JS/traitement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice 3/JS/traitement.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -649,17 +667,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Institut - Etu - Copie/JS/traitement.js">
+    <entry file="file://$PROJECT_DIR$/Lab Institut - Etu - Copie/inscription.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="21" />
+        <state relative-caret-position="646">
+          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab Institut - Etu - Copie/inscription.html">
+    <entry file="file://$PROJECT_DIR$/ExercicesJs/Exercice _ Joueurs/JS/traitement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
+        <state relative-caret-position="-33">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Institut - Etu - Copie/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="182" column="27" selection-start-line="182" selection-start-column="27" selection-end-line="182" selection-end-column="27" />
         </state>
       </provider>
     </entry>

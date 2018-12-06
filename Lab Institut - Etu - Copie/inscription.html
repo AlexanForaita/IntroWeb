@@ -43,6 +43,7 @@
 			<label id="lblMessageErreur"></label>
 			<div><label>Nom<span>*</span></label><input type="text" id="txtNom" name="txtNom"  size="40" ></div>
 			<div><label>Prénom<span>*</span></label><input type="text" id="txtPrenom" name="txtPrenom" size="40"></div>
+				<div><label>Age<span>*</span></label><input type="text" id="txtAge" name="txtAge" size="3" value=""></div>
 			<div><label>Adresse<span>*</span></label><input type="text" id="txtAdresse" name="txtAdresse" size="40" ></div>
 			<div><label>Ville<span>*</span></label><input type="text" id="txtVille" name="txtVille" size="40" ></div>
 			<div><label>Code postal</label><input type="text" id="txtCodePostal" name="txtCodePostal" size="15" ></div>
@@ -53,6 +54,8 @@
 				<option value="étudiant">étudiant</option>
 				<option value="retraité">retraité</option>
 			</select>
+				<div class="bouton2"><input class="bouton" value="Ajouter" id="btnAjouter" type= "button" onclick="btnAjouter_onclick()" /> <input class="bouton" value="Plus Jeune" id="btnPlusJeune" type= "button" disabled="true" onclick="btnPlusJeune_onclick()" />
+					<input class="bouton" value="Recherche" id="btnRechercheNomComplet" type= "button" disabled="true" onclick="btnRechercheNomComplet_onclick()" /></div>
 			<div id="Boutons"><input class="bouton" value="Envoyer" id="btnEnvoyer" type="submit" />   <input class="bouton" type="reset" value="Réintialiser"/></div>
 				 <p id="res"></p>
 		</form>
